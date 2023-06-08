@@ -1,0 +1,22 @@
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\bin\Debug\Завдання 2.exe.config
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\bin\Debug\Завдання 2.exe
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\bin\Debug\Завдання 2.pdb
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання_2.frmDiagrams.resources
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання_2.Properties.Resources.resources
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.exe
+C:\Users\Acer\Documents\Yaroslave\Практичне завдання Візуалізація даних. Створення інфографіки та дашбордів(інфопанелей)\Завдання 2\obj\Debug\Завдання 2.pdb
+C:\Users\Admin\pracw\Practic-work\Завдання 2\bin\Debug\Завдання 2.exe.config
+C:\Users\Admin\pracw\Practic-work\Завдання 2\bin\Debug\Завдання 2.exe
+C:\Users\Admin\pracw\Practic-work\Завдання 2\bin\Debug\Завдання 2.pdb
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.csproj.AssemblyReference.cache
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання_2.frmDiagrams.resources
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання_2.Properties.Resources.resources
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.csproj.GenerateResource.cache
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.exe
+C:\Users\Admin\pracw\Practic-work\Завдання 2\obj\Debug\Завдання 2.pdb
